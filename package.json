@@ -1,0 +1,31 @@
+{
+  "name": "m.range",
+  "version": "0.0.0",
+  "description": "{range} utility function from the m.icro series",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivoputzer/m.range.git"
+  },
+  "keywords": [
+    "micro",
+    "m.icro",
+    "es6",
+    "modules"
+  ],
+  "author": "Ivo von Putzer Reibegg <ivo.putzer@gmail.com> (https://github.com/ivoputzer)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivoputzer/m.range/issues"
+  },
+  "homepage": "https://github.com/ivoputzer/m.range#readme",
+  "devDependencies": {
+    "mocha": "^2.5.3"
+  }
+}
